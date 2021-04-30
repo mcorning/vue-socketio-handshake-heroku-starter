@@ -16,7 +16,11 @@
       <ClientList />
       <div>
         <p>
-          *Based on
+          *<a
+            href="https://github.com/mcorning/vue-socketio-handshake-heroku-starter"
+            >The repo for this app</a
+          >
+          is based on
           <a
             href="https://github.com/socketio/socket.io/tree/master/examples/private-messaging"
             >Private Messaging Repo</a

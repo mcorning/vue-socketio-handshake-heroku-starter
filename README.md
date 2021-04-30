@@ -46,6 +46,6 @@ Set breakpoints, as necessary, in one or both debuggers.
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/mcorning/vue-socketio-handshake-heroku-starter.git)
 
-or manually create a new Heroku application and add the `heroku/nodejs` and `https://github.com/heroku/heroku-buildpack-static` buildpacks. 
+or manually create a new Heroku application and add the `heroku/nodejs` and `https://github.com/heroku/heroku-buildpack-static` buildpacks.
 
 Note that the node server runs from the path specified in the [Procfile](https://heroku-vue-socket-test.herokuapp.com/).
