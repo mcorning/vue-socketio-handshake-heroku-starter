@@ -1,11 +1,14 @@
+# vue-socketio-handshake-heroku-starter
+
 <img src="icon.svg" align="right" width="200" height="145" />
 
-# vue-socketio-handshake-heroku-starter
+
+> This app uses [socket.io V3](https://socket.io/docs/v3/migrating-from-2-x-to-3-0/)
 
 `vue-socketio-handshake-heroku-starter` is a vue-socket.io boilerplate to set up a new vue application using a node backend and websockets. It consists of a vue client and a node server and is using [vue-socket.io-extended](https://github.com/probil/vue-socket.io-extended) to bind socket.io to the vue instance. The project is set up to be deployed to Heroku.
 
 :sparkles: Example app demo:
-[vue-socketio-heroku-starter.herokuapp.com](https://vue-socketio-handshake-heroku-starter.herokuapp.com/)
+[vue-socketio-handshake-heroku-starter.herokuapp.com](https://vue-socketio-handshake-heroku-starter.herokuapp.com/)
 
 ## Usage
 
