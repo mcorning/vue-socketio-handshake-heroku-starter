@@ -1,6 +1,6 @@
 # vue-socketio-handshake-heroku-starter
 
-> This app uses [socket.io V3](https://socket.io/docs/v3/migrating-from-2-x-to-3-0/)
+> This app uses [socket.io V4](https://socket.io/docs/v4/)
 
 <img src="icon.svg" align="right" width="200" height="145" />
 
